@@ -51,7 +51,7 @@
 | **Peyzajı geliştirmek** | Koordineli konsept ve teknik kitaplar, planlar, çizelgeler ve koordinasyon dosyaları. | İncelenmiş bir temel oluşunca peyzaj konseptini konuşalım. |
 | **Stüdyonuzu büyütmek** | Seçili paketler, kendi markanızla ve özel inceleme odasıyla hazırlanır. | Bir partner marka profilini inceleyin. |
 
-[Başlangıç noktanızı bulun →](https://twinzworks.com/tr/find-your-start/)
+[Başlangıç noktanızı bulun →](https://twinzworks.com/tr/baslangic-rehberi/)
 
 ## Biz kimiz
 
