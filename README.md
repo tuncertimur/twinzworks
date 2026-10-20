@@ -62,7 +62,7 @@ The TZ monogram carries both names.
 
 ## Where things stand
 
-- **Live for selected projects:** the Site Data Readiness Preview and the Site Intelligence Brief. They are built from real public data in Studio OS. Each is reviewed by the named landscape architect before it reaches a client.
+- **Available for selected projects (pre-launch):** the Site Data Readiness Preview and the Site Intelligence Brief. They are built from real public data in Studio OS. Each is reviewed by the named landscape architect before it reaches a client.
 - **In development:** concept, design development and strategy books. Today they exist as DEMO specimens, like the pages above; the general production path is still being completed.
 - **Partner studios:** white-label delivery by arrangement.
 

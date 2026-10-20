@@ -62,7 +62,7 @@ TZ monogramı iki ismi birlikte taşır.
 
 ## Bugünkü durum
 
-- **Seçili projelerde canlı:** Saha Veri Hazırlık Önizlemesi ve Saha Zekâsı Raporu. İkisi de Studio OS'ta gerçek kamusal veriden üretilir. Her biri müşteriye ulaşmadan önce isimli peyzaj mimarınca incelenir.
+- **Seçili projeler için hazır (lansman öncesi):** Saha Veri Hazırlık Önizlemesi ve Saha Zekâsı Raporu. İkisi de Studio OS'ta gerçek kamusal veriden üretilir. Her biri müşteriye ulaşmadan önce isimli peyzaj mimarınca incelenir.
 - **Geliştiriliyor:** konsept, tasarım geliştirme ve strateji kitapları. Bugün yukarıdaki gibi DEMO örnekler olarak var; genel üretim yolu hâlâ tamamlanıyor.
 - **Partner stüdyolar:** beyaz etiket teslim, anlaşmayla.
 
