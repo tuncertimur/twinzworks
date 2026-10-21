@@ -10,16 +10,18 @@
 <a href="https://twinzworks.com/">twinzworks.com</a> · <a href="https://twinzworks.com/contact/">Discuss your project</a></p>
 
 <!-- FILM:BRAND_EN -->
-<a href="https://twinzworks.com/about/"><img src="media/brand-film-en-poster.jpg" width="100%" alt="TwinzWorks brand film, 60 seconds. Opens the film on twinzworks.com"></a>
 
-<p align="center"><sub>Brand film · 60 s · <a href="https://twinzworks.com/about/">watch on twinzworks.com</a> · narration: synthetic voice of Tuncer Timur, with his consent</sub></p>
+https://github.com/user-attachments/assets/37e26259-5310-4de1-87a0-32026a21bfc0
+
+<p align="center"><sub>Brand film · 60 s · <a href="https://twinzworks.com/about/">also on twinzworks.com</a> · narration: synthetic voice of Tuncer Timur, with his consent</sub></p>
 
 ## How it works
 
 <!-- FILM:PRODUCT_EN -->
-<a href="https://twinzworks.com/how-it-works/"><img src="media/product-film-en-poster.jpg" width="100%" alt="How TwinzWorks works, 56 seconds. Opens the film on twinzworks.com"></a>
 
-<p align="center"><sub>Product film · 56 s · <a href="https://twinzworks.com/how-it-works/">watch on twinzworks.com</a></sub></p>
+https://github.com/user-attachments/assets/6155ac8c-ddb2-4e8f-8bac-67d8f66230aa
+
+<p align="center"><sub>Product film · 56 s · <a href="https://twinzworks.com/how-it-works/">also on twinzworks.com</a></sub></p>
 
 1. **You bring the question, the site and the files you already have.** These can be plans, surveys, photos and schedules.
 2. **Inputs are checked before use.** Each file keeps its source. A file that cannot safely be used stays out.

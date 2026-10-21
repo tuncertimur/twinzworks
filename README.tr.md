@@ -10,16 +10,18 @@
 <a href="https://twinzworks.com/tr/">twinzworks.com</a> · <a href="https://twinzworks.com/tr/contact/">Projenizi görüşelim</a></p>
 
 <!-- FILM:BRAND_TR -->
-<a href="https://twinzworks.com/tr/about/"><img src="media/brand-film-tr-poster.jpg" width="100%" alt="TwinzWorks marka filmi, 56 saniye. Filmi twinzworks.com'da açar"></a>
 
-<p align="center"><sub>Marka filmi · 56 sn · <a href="https://twinzworks.com/tr/about/">twinzworks.com'da izleyin</a> · seslendirme: Tuncer Timur'un sentetik sesi, onayıyla</sub></p>
+https://github.com/user-attachments/assets/36009d77-68a0-4814-bfa5-b5a3bb0940f9
+
+<p align="center"><sub>Marka filmi · 56 sn · <a href="https://twinzworks.com/tr/about/">twinzworks.com'da da var</a> · seslendirme: Tuncer Timur'un sentetik sesi, onayıyla</sub></p>
 
 ## Nasıl çalışır
 
 <!-- FILM:PRODUCT_TR -->
-<a href="https://twinzworks.com/tr/how-it-works/"><img src="media/product-film-tr-poster.jpg" width="100%" alt="TwinzWorks nasıl çalışır, 56 saniye. Filmi twinzworks.com'da açar"></a>
 
-<p align="center"><sub>Ürün filmi · 56 sn · <a href="https://twinzworks.com/tr/how-it-works/">twinzworks.com'da izleyin</a></sub></p>
+https://github.com/user-attachments/assets/2538cbdb-2dd2-4897-a157-49b55ce76fa6
+
+<p align="center"><sub>Ürün filmi · 56 sn · <a href="https://twinzworks.com/tr/how-it-works/">twinzworks.com'da da var</a></sub></p>
 
 1. **Soruyu, sahayı ve elinizdeki dosyaları siz getirirsiniz.** Bunlar plan, ölçüm, fotoğraf ve çizelge olabilir.
 2. **Girdiler kullanılmadan önce kontrol edilir.** Her dosya kaynağıyla birlikte tutulur. Güvenle kullanılamayan dosya dışarıda kalır.
